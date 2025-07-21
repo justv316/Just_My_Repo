@@ -9,24 +9,25 @@
 	1. Any Pokémon that faints must be released or boxed permanently. It is considered “dead” for the rest of the run.
 		a. If all Pokemon "die", the run is considered lost. 
 	
-	
 	2. Only the first wild Pokémon encountered in a route or area can be caught.
 		a. If you fail to catch a (ie. it flees or faints), your opportunity to catch a Pokémon in that area is lost.
 	
-	3. The player must nickname all Pokémon they catch or obtain.
+	3. You must nickname all Pokémon they catch or obtain.
 	
-	4. Pokemon must never exceed the stated level cap based on game point.
+	4. Your Pokemon must never exceed the stated level caps.
 	
 	5. You may not catch Pokemon in cities by Surfing/Fishing. You may catch pokemon in routes using these means, but only as the first encounter of that route. 
 	
 
 ## Clauses
 
-	0. Duplicate: If the first Pokémon in an area is one the player already owns, they may continue battling until they encounter one they do not own, and then attempt to catch it. This rule prevents a player from having multiples of the same Pokémon, especially early in the game when the selection of different Pokémon on the first few routes is limited.
+	0. Duplicate: If the first Pokémon in an area is one the you  already own, you may continue battling until you encounter one you do not own, and then attempt to catch it.
 	
-	1. Shiny: If the player encounters a shiny wild Pokémon, they may catch it, even if a wild Pokémon has already been encountered in that area. This does not count as the encounter for that area.
+	1. Shiny: If you encounters a shiny wild Pokémon, you may catch it, even if a wild Pokémon has already been encountered in that area. This does not count as the encounter for that area.
 	
 	2. Safari: You may catch 1 Pokemon in your first visit to the Safari zone. You may never return to the safari zone. You may take 5 encounters before being forced to attempt to catch the 5th pokemon. Pokemon may flee and not be considered a lost encounter chance until the 5th encounter. Once a Pokemon is caught, or the 5th encounter is lost, you must force the Safari to end. 
+	
+	3. Revisit Surf: Route 105, 106, 107 and 108 are returned to in the late-game between Gym 8 and the elite 4. You may catch 1 additional pokemon for Route 105 and 106, and 1 for 107 and 108. 
 	
 ## Level Caps and Stopping points
 
@@ -76,7 +77,6 @@
 	11. New Mauville (Power Plant)
 	12. Route 117
 		a. Verdanturf Town
-			[Potential Contest Stopping Point]
 	13. Route 112
 	14. Fiery Path
 	15. Route 113
@@ -137,12 +137,15 @@
 	[The Regis] You may use 1 Regi in your run
 	
 	36. Route 105 (Surf) & Route 106 (Surf)
-	37. Route 107 (Surf) & Route 108 (Surf) & Abandoned Ship
-	38. Victory Road
+	37. Route 107 (Surf) & Route 108 (Surf) 
+	38. Abandoned Ship
+	39. Victory Road
 	
 	
 	[Elite_Four] Lvl 60
 	[Stopping_Point_9]
+	Total Wild Pokemon Chances 39
 	 
 	!!You win the Nuzlocke!!
+	
 	
