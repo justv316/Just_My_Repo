@@ -1,4 +1,4 @@
-# Natalie and Vanessa Ruby Sapphire Nuzlocke
+# Suicide Pact Nuzlocke
 
 [Nuzlocke University](https://nuzlockeuniversity.ca/nuzlocke-rules/)
 
@@ -7,7 +7,6 @@
 	0. Each person will play the game until each gym is defeated as organized in this document
 	
 	1. Any Pokémon that faints must be released or boxed permanently. It is considered “dead” for the rest of the run.
-		a. If all Pokemon "die", the run is considered lost. 
 	
 	2. Only the first wild Pokémon encountered in a route or area can be caught.
 		a. If you fail to catch a (ie. it flees or faints), your opportunity to catch a Pokémon in that area is lost.
@@ -17,6 +16,11 @@
 	4. Your Pokemon must never exceed the stated level caps.
 	
 	5. You may not catch Pokemon in cities by Surfing/Fishing. You may catch pokemon in routes using these means, but only as the first encounter of that route. 
+	
+	6. There are no item restrictions, Pokemon center restrictions, or Party Size restrictions.
+	
+## Defeat Condition
+	0. If either player has all of their Pokemon "die" (i.e. Faint once), than both runs are immediately terminated. 
 	
 
 ## Clauses
