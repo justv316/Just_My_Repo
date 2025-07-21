@@ -1,15 +1,19 @@
 # Natalie and Vanessa Ruby Sapphire Nuzlocke
 
+(Nuzlocke University)[https://nuzlockeuniversity.ca/nuzlocke-rules/]
+
 ## Rules
 
 	0. Each person will play the game up until major events (Badges, story events, legendary encounters) as organized in this document
 	
-	1. Any Pokémon that faints must be released or boxed permanently. It is considered “dead” for the rest of the challenge.
-	Only the first wild Pokémon encountered in a route or area can be caught. 
+	1. Any Pokémon that faints must be released or boxed permanently. It is considered “dead” for the rest of the run.
+		a. If all Pokemon "die", the run is considered lost. 
 	
-	2. If the player fails to catch it (ie. it flees or faints), their opportunity to catch a Pokémon in that area is lost.
 	
-	3. The player must nickname all Pokémon they catch or obtain. (This is not technically necessary for the challenge run, but is universally accepted as part of a Nuzlocke.)
+	2. Only the first wild Pokémon encountered in a route or area can be caught.
+		a. If you fail to catch a (ie. it flees or faints), your opportunity to catch a Pokémon in that area is lost.
+	
+	3. The player must nickname all Pokémon they catch or obtain.
 	
 	4. Pokemon must never exceed the stated level cap based on game point.
 	
@@ -22,21 +26,19 @@
 	
 	1. Shiny: If the player encounters a shiny wild Pokémon, they may catch it, even if a wild Pokémon has already been encountered in that area. This does not count as the encounter for that area.
 	
+	2. Safari: You may catch 1 Pokemon in your first visit to the Safari zone. You may never return to the safari zone. You may take 5 encounters before being forced to attempt to catch the 5th pokemon. Pokemon may flee and not be considered a lost encounter chance until the 5th encounter. Once a Pokemon is caught, or the 5th encounter is lost, you must force the Safari to end. 
+	
 ## Level Caps and Stopping points
 
-	1. [Gym_1] Lvl 16
-	2. [Gym_2] Lvl 19
-	3. [Gym_3] Lvl 24
-	4. [Gym_4] Lvl 29
-	5. [Gym_5] Lvl 32
-	6. [Gym_6] Lvl 35
-	7. [Gym_7] Lvl 43
-	8. [Gym_8] Lvl 46
-	9. [Elite_Four_1] Lvl 50
-	10. [Elite_Four_2] Lvl 52
-	11. [Elite_Four_3] Lvl 54
-	12. [Elite_Four_4] Lvl 57
-	13. [Champion] Lvl 60
+	1. [Gym_1] Lvl 17
+	2. [Gym_2] Lvl 20
+	3. [Gym_3] Lvl 25
+	4. [Gym_4] Lvl 30
+	5. [Gym_5] Lvl 33
+	6. [Gym_6] Lvl 36
+	7. [Gym_7] Lvl 44
+	8. [Gym_8] Lvl 47
+	9. [Elite_Four] Lvl 60
 
 ## Pokemon Catches and Walkthrough
 
@@ -49,6 +51,98 @@
 	4. Route 104 [North and South counts as the same route/catch]
 	5. Petalburg Woods
 		a. Rustboro City
-	[Gym_1] Lv 16 : Knuckle Badge : Roxanne
+		
+	[Gym_1] Lv 16 : Stone Badge : Roxanne
 	[Stopping_Point_1]
 		You should have encountered and attempted to catch 5 pokemon, and have your starter. 
+		
+	6. Route 116
+	7. Rusturf Tunnel
+		a. Dewford Town
+	[Gym_2] Lvl 19 : Knuckle Badge : Brawly
+	[Stopping_Point_2]
+		You should have encountered and attempted to catch 2 more pokemon. 
+		
+	8. Granite Cave
+	9. Route 109
+		a. Slatepoirt City
+	10. Route 110
+		a. Mauville City
+		
+	[Gym_3] Lvl 24 : Dynamo Badge : Wattson
+	[Stopping_Point_3]
+		You should have encountered and attempted to catch 3 more pokemon. 
+		
+	11. New Mauville (Power Plant)
+	12. Route 117
+		a. Verdanturf Town
+			[Potential Contest Stopping Point]
+	13. Route 112
+	14. Fiery Path
+	15. Route 113
+		a. Fallarbor Town
+	16. Route 114
+	17. Meteor Falls
+	18. Route 115
+		a. Mt. Chimney
+	20. Jagged Pass
+		a. Lavaridge Town
+		
+	[Gym_4] Lvl 29 : Heat Badge : Flannery
+	[Stopping_Point_4]
+		You should have encountered and attempted to catch 9 more pokemon.
+		
+	21. Route 111 [The Desert is now Accessible]
+		a. The Desert [Non-Catch: Fossil]
+		b. Mirage Tower
+		c. The Winstrate Family
+	22. Return to Petalburg City
+	
+	[Gym_5] Lvl 32 : Balance Badge : Daddy Norman
+	[Stopping_Point_5]
+		You should have encountered and attempted to catch 1 more pokemon and obtained Anorith/Lileep via Fossil exchange in Rustboro.
+	23. Route 118
+	24. Route 119
+		a. Fortree City [First Visit: Gyms closed and need to get the Scope in the next Route]
+	25. Route 120
+	
+	[Gym_6] Lvl 35 : Feather Badge : Winona 
+	[Stopping_Point_6]
+	
+		You should have encountered and attempted to catch 1 more pokemon and obtained Anorith/Lileep via Fossil exchange in Rustboro.
+	26. Route 121
+	27. Safari Zone
+		a. Lilycove City
+	28. Route 122 & Mt. Pyre
+	29. Route 123 & Team Aqua/Magma Hideout
+	30. Route 124
+	
+	[Gym_7] Lvl 43 : Mind Badge : Tate & Liza 
+	[Stopping_Point_7]
+		You should have encountered and attempted to catch 5 more pokemon.
+	
+	31. Route 125 & The Shoal Cave
+	32. Route 127 & Route 128
+	33. Route 126 & Seafloor Cavern
+	
+	[Groudon_Kyogre] You may not use your box legendary in the run, but you still must Battle/Catch them in order to progress
+	[Gym_8] Lvl 46 : Rain Badge : Wallace
+	[Stopping_Point_8]
+		You should have encountered and attempted to catch 3 more pokemon.
+	
+	34. Route 129 & Route 130 & Route 131 [Optional Routes]
+		a. Pacifidog Town
+	35. Route 132 & Route 133 & Route 134
+	
+	[The Regis] You may use 1 Regi in your run
+	
+	36. Route 105 (Surf) & Route 106 (Surf)
+	37. Route 107 (Surf) & Route 108 (Surf) & Abandoned Ship
+	38. Victory Road
+	
+	
+	[Elite_Four] Lvl 60
+	[Stopping_Point_9]
+	 
+	!!You win the Nuzlocke!!
+	
