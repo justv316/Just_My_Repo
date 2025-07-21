@@ -24,29 +24,31 @@
 	
 ## Level Caps and Stopping points
 
-	1. [Gym_1] : Lv 16
-	2. [Gym_2] : Lv 19
-	3. [Gym_3] : Lv 24
-	4. [Gym_4] : Lv 29
-	5. [Gym_5] : Lv 32
-	6. [Gym_6] : Lv 35
-	7. [Gym_7] : Lv 43
-	8. [Gym_8] : Lv 46
-	9. [Elite_Four_1] : Lv 50
-	10. [Elite_Four_2] : Lv 52
-	11. [Elite_Four_3] : Lv 54
-	12. [Elite_Four_4] : Lv 57
-	13. [Champion] : Lv 60
+	1. [Gym_1] Lvl 16
+	2. [Gym_2] Lvl 19
+	3. [Gym_3] Lvl 24
+	4. [Gym_4] Lvl 29
+	5. [Gym_5] Lvl 32
+	6. [Gym_6] Lvl 35
+	7. [Gym_7] Lvl 43
+	8. [Gym_8] Lvl 46
+	9. [Elite_Four_1] Lvl 50
+	10. [Elite_Four_2] Lvl 52
+	11. [Elite_Four_3] Lvl 54
+	12. [Elite_Four_4] Lvl 57
+	13. [Champion] Lvl 60
 
 ## Pokemon Catches and Walkthrough
 
-	0. Starter [Non-Catch:You can choose any starter]
+	0. Starter [Non-Catch: You can choose any starter]
 	1. Route 101
-		a. Oldale Town - Rival Battle
-	2. Route 103 - Rival Battle
+		a. Oldale Town [Rival Battle]
+	2. Route 103 [Rival Battle]
 	3. Route 102
-		a. Petalburg City {Meet Wally}
-	4. Route 104 {North and South counts as the same route/catch}
+		a. Petalburg City [Meet Wally]
+	4. Route 104 [North and South counts as the same route/catch]
 	5. Petalburg Woods
-	6. Rustboro City [Non-Catch: Fossil]
-	[Gym_1] : Roxanne
+		a. Rustboro City
+	[Gym_1] Lv 16 : Knuckle Badge : Roxanne
+	[Stopping_Point_1]
+		You should have encountered and attempted to catch 5 pokemon, and have your starter. 
