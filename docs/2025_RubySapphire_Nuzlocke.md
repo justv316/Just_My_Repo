@@ -13,14 +13,19 @@
 	
 	3. You must nickname all Pokémon you catch or obtain.
 	
-	4. Your Pokemon must never exceed the stated level caps.
+	4. Your Pokemon must never exceed the stated level caps. If they do, you must box them until you can.
 	
 	5. You may not catch Pokemon in cities by Surfing/Fishing. You may catch pokemon in routes using these means, but only as the first encounter of that route. 
 	
 	6. There are no item restrictions, Pokemon center restrictions, or Party Size restrictions.
 	
+	7. You may save-state after receiving your starter to come back to on reset.
+	
 ## Defeat Condition
+
 	0. If either player has all of their Pokemon "die" (i.e. Faint once), than both runs are immediately terminated. 
+	
+	1. If your entire party is defeated in a battle, the run is immediately terminated.
 	
 
 ## Clauses
@@ -31,11 +36,11 @@
 	
 	2. Safari: You may catch 1 Pokemon in your first visit to the Safari zone. You may never return to the safari zone. You may take 5 encounters before being forced to attempt to catch the 5th pokemon. Pokemon may flee and not be considered a lost encounter chance until the 5th encounter. Once a Pokemon is caught, or the 5th encounter is lost, you must force the Safari to end. 
 	
-	3. Revisit Surf: Route 105, 106, 107 and 108 are returned to in the late-game between Gym 8 and the elite 4. You may catch 1 additional pokemon for Route 105 and 106, and 1 for 107 and 108. 
+	3. Revisit: Route 105, 106, 107 and 108 are returned to in the late-game between Gym 8 and the elite 4. You may catch 1 additional pokemon for Route 105 and 106, and 1 for 107 and 108. 
 	
 ## Level Caps and Stopping points
 
-	1. [Gym_1] Lvl 17
+	1. [Gym_1] Lvl 16
 	2. [Gym_2] Lvl 20
 	3. [Gym_3] Lvl 25
 	4. [Gym_4] Lvl 30
@@ -48,13 +53,25 @@
 ## Pokemon Catches and Walkthrough
 
 	0. Starter [Non-Catch: You can choose any starter]
+		* V♀ : Dormaus♀ the Mudkip
+		* Natalie : Fenn the Mudkip
 	1. Route 101
-		a. Oldale Town [Rival Battle]
+		* V♀ : Zach♀ the Zigzagoon 
+		* Natalie : Skitty♀ the Zigzagoon
+		a. Oldale Town
 	2. Route 103 [Rival Battle]
+		* V♀ : Binder♂ the Wingull
+		* Natalie : Squeyle♂ the Wurmple
 	3. Route 102
+		* V♀ : Chessy♀ the Ralts
+		* Natalie : Onno♀ the Houndour
 		a. Petalburg City [Meet Wally]
-	4. Route 104 [North and South counts as the same route/catch]
+	4. Route 104 [Before and after woods counts as the same route/catch]
+		* V♀ : Cleanswap♂ the Wurmple
+		* Natalie : 
 	5. Petalburg Woods
+		* V♀ : Rabbit♂ the Silcoon
+		* Natalie : 
 		a. Rustboro City
 		
 	[Gym_1] Lv 16 : Stone Badge : Roxanne
@@ -62,16 +79,26 @@
 		You should have encountered and attempted to catch 5 pokemon, and have your starter. 
 		
 	6. Route 116
+		* V♀ : Nincada got wet
+		* Natalie : 
 	7. Rusturf Tunnel
+		* V♀ : 
+		* Natalie : 
 		a. Dewford Town
 	[Gym_2] Lvl 19 : Knuckle Badge : Brawly
 	[Stopping_Point_2]
 		You should have encountered and attempted to catch 2 more pokemon. 
 		
 	8. Granite Cave
+		* V♀ : 
+		* Natalie : 
 	9. Route 109
+		* V♀ : 
+		* Natalie : 
 		a. Slatepoirt City
 	10. Route 110
+		* V♀ : 
+		* Natalie : 
 		a. Mauville City
 		
 	[Gym_3] Lvl 24 : Dynamo Badge : Wattson
@@ -79,17 +106,37 @@
 		You should have encountered and attempted to catch 3 more pokemon. 
 		
 	11. New Mauville (Power Plant)
+		* V♀ : 
+		* Natalie : 
 	12. Route 117
+		* V♀ : 
+		* Natalie : 
 		a. Verdanturf Town
 	13. Route 112
+		* V♀ : 
+		* Natalie : 
 	14. Fiery Path
+		* V♀ : 
+		* Natalie : 
 	15. Route 113
+		* V♀ : 
+		* Natalie : 
 		a. Fallarbor Town
 	16. Route 114
+		* V♀ : 
+		* Natalie : 
 	17. Meteor Falls
+		* V♀ : 
+		* Natalie : 
 	18. Route 115
+		* V♀ : 
+		* Natalie : 
 		a. Mt. Chimney
+		* V♀ : 
+		* Natalie : 
 	20. Jagged Pass
+		* V♀ : 
+		* Natalie : 
 		a. Lavaridge Town
 		
 	[Gym_4] Lvl 29 : Heat Badge : Flannery
