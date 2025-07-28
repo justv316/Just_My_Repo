@@ -61,37 +61,39 @@
 		a. Oldale Town
 	2. Route 103 [Rival Battle]
 		* V♀ : Binder♂ the Wingull
-		* Natalie : Squeyle♂ the Wurmple
+		* Natalie : Squeyle♂ the Wurmple [Squashed]
 	3. Route 102
 		* V♀ : Chessy♀ the Ralts
 		* Natalie : Onno♀ the Houndour
 		a. Petalburg City [Meet Wally]
 	4. Route 104 [Before and after woods counts as the same route/catch]
 		* V♀ : Cleanswap♂ the Wurmple
-		* Natalie : 
+		* Natalie : Dello♂ the Tailow 
 	5. Petalburg Woods
 		* V♀ : Rabbit♂ the Silcoon
-		* Natalie : 
+		* Natalie : Fallon♂ the Shroomish
 		a. Rustboro City
 		
 	[Gym_1] Lv 16 : Stone Badge : Roxanne
 	[Stopping_Point_1]
 		You should have encountered and attempted to catch 5 pokemon, and have your starter. 
 		
+	Natalie and V♀ Beat Roxanne
+		
 	6. Route 116
 		* V♀ : Nincada got wet
 		* Natalie : 
 	7. Rusturf Tunnel
-		* V♀ : 
+		* V♀ : Yell♀ the Whismur
 		* Natalie : 
 		a. Dewford Town
+	8. Granite Cave
+		* V♀ : aOctogon the Geodude
+		* Natalie : 
+		
 	[Gym_2] Lvl 19 : Knuckle Badge : Brawly
 	[Stopping_Point_2]
-		You should have encountered and attempted to catch 2 more pokemon. 
-		
-	8. Granite Cave
-		* V♀ : 
-		* Natalie : 
+		You should have encountered and attempted to catch 3 more pokemon. 
 	9. Route 109
 		* V♀ : 
 		* Natalie : 
