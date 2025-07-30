@@ -94,12 +94,12 @@
 	[Gym_2] Lvl 19 : Knuckle Badge : Brawly
 	[Stopping_Point_2]
 		You should have encountered and attempted to catch 3 more pokemon. 
-	9. Route 109
+	9. Route 109 (No grass here)
 		* V♀ : 
 		* Natalie : 
-		a. Slatepoirt City
+		a. Slateport City
 	10. Route 110
-		* V♀ : 
+		* V♀ : Bike♀ the Elektrike
 		* Natalie : 
 		a. Mauville City
 		
