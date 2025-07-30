@@ -111,7 +111,7 @@
 		* V♀ : 
 		* Natalie : 
 	12. Route 117
-		* V♀ : 
+		* V♀ : Illumise♀ the Volbeat
 		* Natalie : 
 		a. Verdanturf Town
 	13. Route 112
