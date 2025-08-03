@@ -86,49 +86,50 @@
 	7. Rusturf Tunnel
 		* V♀ : Yell♀ the Whismur
 		* Natalie : 
-		a. Dewford Town
 	8. Granite Cave
 		* V♀ : aOctogon the Geodude
 		* Natalie : 
+		a. Dewford Town
 		
 	[Gym_2] Lvl 19 : Knuckle Badge : Brawly
 	[Stopping_Point_2]
 		You should have encountered and attempted to catch 3 more pokemon. 
+	Natalie and V♀ Beat Brawly
 	9. Route 109 (No grass here)
-		* V♀ : 
-		* Natalie : 
 		a. Slateport City
 	10. Route 110
 		* V♀ : Bike♀ the Elektrike
+		* Natalie : 
+		a. Verdanturf Town
+	11. Route 117
+		* V♀ : Illumise♀ the Volbeat
 		* Natalie : 
 		a. Mauville City
 		
 	[Gym_3] Lvl 24 : Dynamo Badge : Wattson
 	[Stopping_Point_3]
-		You should have encountered and attempted to catch 3 more pokemon. 
+		You should have encountered and attempted to catch 1 or 2 more pokemon. 
+	V♀ beat Wattson
 		
-	11. New Mauville (Power Plant)
+	12. New Mauville (Power Plant)
 		* V♀ : 
 		* Natalie : 
-	12. Route 117
-		* V♀ : Illumise♀ the Volbeat
-		* Natalie : 
-		a. Verdanturf Town
+
 	13. Route 112
-		* V♀ : 
+		* V♀ : Numb♀ the Numel
 		* Natalie : 
 	14. Fiery Path
-		* V♀ : 
+		* V♀ : Killed Grimer :/
 		* Natalie : 
 	15. Route 113
-		* V♀ : 
+		* V♀ : Corviknight♂ the Skarmory
 		* Natalie : 
 		a. Fallarbor Town
 	16. Route 114
-		* V♀ : 
+		* V♀ : Babu the Swablu
 		* Natalie : 
 	17. Meteor Falls
-		* V♀ : 
+		* V♀ : N the Lunatone
 		* Natalie : 
 	18. Route 115
 		* V♀ : 
